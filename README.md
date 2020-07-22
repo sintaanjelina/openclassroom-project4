@@ -1,4 +1,6 @@
 # openclassroom-project4
+This project is part of "Open Classroom Front-End Developer Path offered By DevC Medan and powered by OpenClassroom Workplace Facebook"
+
 ### General purpose / goal
 Solve expressfood startup problem in creating database for their website-based system. Their website-based system needs database for managing expressfood delivery, order and meal stock on its websites. 
 
