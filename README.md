@@ -1,4 +1,4 @@
-# openclassroom-project4
+# openclassroom-project4 (Validated)
 This project is part of "Open Classroom Front-End Developer Path offered By DevC Medan and powered by OpenClassroom Workplace Facebook"
 
 ### General purpose / goal
